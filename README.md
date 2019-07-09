@@ -15,5 +15,7 @@ Create additional feature (bool) for dictionary words
 
 <pre>
 <bold>NOTE:</bold>
-In my script, I have done some processing of the data, saved, and reloaded the processed data. This is because the input file is in csv format which means each value is separated by comma. This poses an interesting situation when passwords contain comma(s).
+In my script, I have done some processing of the data, saved, and reloaded the processed data. 
+This is because the input file is in csv format which means each value is separated by comma. 
+This poses an interesting situation when passwords contain comma(s).
 </pre>
