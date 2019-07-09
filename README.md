@@ -1,4 +1,4 @@
-### Password Strength Classification 
+### ML-based Password Strength Classification 
 - Given a dataset of 700,000+ passwords and their classification [0,1,2]
 - Created features to model this classification.
 - Performed Logistic Regression on training data
